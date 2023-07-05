@@ -113,7 +113,7 @@ footer{
     bottom: 0;
     display: grid;
     grid-template-columns: 3fr 10fr;
-    align-items: center;
+    align-items: space-around;
     font-size: 13px;
     background-color: #e7e7e7;
     border-top:  1px solid #1b1b1b;
